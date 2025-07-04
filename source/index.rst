@@ -6,7 +6,7 @@
 demo_rtd documentation
 ======================
 
-New updates!!
+New updates v2!!
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
